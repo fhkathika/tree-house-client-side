@@ -22,7 +22,7 @@ export default function NavigationDrawer() {
     const Stack = createNativeStackNavigator();
     return (
         <Drawer.Navigator >
-   
+ 
       <Drawer.Screen name="Home" component={Home}  />
       <Drawer.Screen name="Add Items" component={AddItems} />
       

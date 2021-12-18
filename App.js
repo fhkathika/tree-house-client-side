@@ -15,7 +15,8 @@ export default function App() {
  
 <>
     <NavigationContainer>
-<NavigationDrawer/>
+   
+<NavigationDrawer />
 
   
         <Stack.Screen
