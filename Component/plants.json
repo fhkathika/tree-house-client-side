@@ -1,0 +1,20 @@
+[
+    {
+        "name":" Calathea Ornata",
+        "img":"https://i.ibb.co/NxWtRg1/img1.jpg",
+        "price":450,
+        "detail":"The Calathea Ornata (also called the Calathea Pinstripe or Pinstripe plant) is a beautiful plant with pink stripes on its large green leaves. It's beautiful, but it can be a fussy plant and difficult to care for at times. We all know someone that has struggled to keep a Calathea healthy, let alone alive. So with this guide, we'll go over what you can do to keep these amazing, but stubborn, tropical plants healthy."
+    },
+    {
+        "name":"Peace lily",
+        "img":"https://i.ibb.co/CmpKN1q/img8.jpg",
+        "price":600,
+        "detail":"Peace lilies make excellent houseplants for the home or office. These lovely plants not only brighten up a living space, but are also excellent at cleaning the air of the room they are in. Most commonly, these plants have dark green leaves and white “flowers.” What most people think of as the flower is actually a specialized leaf bract that grows hooded over the flowers."
+    },
+    {
+        "name":"Lady Palm",
+        "img":"https://i.ibb.co/XXzBjtg/img9.jpg",
+        "price":550,
+        "detail":"Having a full and vibrant palm in your home is always a nice addition and the lady palm is a great one to start off with. Unlike other types of palms, this one is easier to care for and only needs indirect sunlight."
+    }
+]
